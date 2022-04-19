@@ -1,0 +1,11 @@
+enabled: true
+enabled-overworld: true
+enabled-nether: false
+enabled-end: false
+rtp-radius: 10000
+rtp-origin:
+  x: 0
+  z: 0
+spawn-over-fluids: false
+max-retries: 5
+invincibility-duration: 2

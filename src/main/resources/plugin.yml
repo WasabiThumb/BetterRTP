@@ -1,0 +1,11 @@
+name: BetterRTP
+version: '${project.version}'
+main: codes.wasabi.betterrtp.BetterRTP
+api-version: 1.18
+authors: [ WasabiThumbs ]
+description: Better RTP
+website: http://wasabi.codes/
+commands:
+  rtp:
+    description: Randomly teleports you throughout the world.
+    aliases: [ randomtp, randomteleport ]
